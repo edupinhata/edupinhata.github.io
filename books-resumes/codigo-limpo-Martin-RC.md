@@ -80,7 +80,87 @@ garfos por recursos.
 **Recomendação:** Aprenda esses algoritmos básicos e entenda suas soluções.
 
 
+### Cuidado com dependências entre métodos sincronizados
 
+Dependências entre métodos sincronizados causam pequenos bugs no código concorrente. Evite usar mais 
+de um método em um objeto compartilhado.
+Três formas de deixar um código com um objeto compartilhado correto:
+1. Bloqueio voltado para cliente
+2. Bloqueio voltado para servidor
+3. Servidor extra
+
+### Mantenha pequenas as seções sincronizadas
+
+Seções sincronizadas adicionam bloqueios que garantem que apenas uma thread rode por vez. Isto causa 
+atrasos e trabalho extra, portanto deve-se proteger apenas seções críticas.
+
+### É difícil criar códigos de desligamento corretos
+
+Uma má implementação pode fazer com que threads fiquem travadas e o programa acabe não finalizando com sucesso.
+
+Pense o quanto antes no desligamento do programa e faça com que ele funcione com êxito. Vai levar mais tempo do que
+você espera. Revise os algoritmos existentes, pois isso é mais difícil do que você imagina.
+
+
+### Teste de código com threads
+
+Recomendações:
+
+- Trate falhas falsas como questões relacionadas às threads.
+- Primeiro, faça com que seu código sem thread funcione.
+- Torne seu código com threads plugáveis;
+- Torne seu código com threads ajustável;
+- Execute com mais threads do que processadores;
+- Execute em diferentes plataformas;
+- Altere seu código para testar e forçar falhas.
+
+Outras recomendações:
+
+- Não ignore falhas de sistema como se fossem casos isolados;
+- Não procure bugs não relacionados a threads com os relacionados a elas ao mesmo tempo. Certifique-se
+de que seu código funciona sem threads.
+- Faça de seu código com threads especialmente portátil de modo que possa executá-lo em várias configurações.
+- Encontre maneiras de cronometrar o desempenho de seu sistema sob variadas configurações.
+- Coisas acontecem quando o sistema alterna entre as tarefas. Execute mais threads do que os processadores ou núcleos presentes.
+- Execute o quanto antes e frequentemente seu código com threads em todas as plataformas finais.
+
+### Altere seu código para testar falhas
+
+É comum que falhas se escondam em códigos concorrentes. Testes simples nem sempre conseguem expor esses erros.
+Uma opção é forçar falhas de duas maneiras:
+
+*Manualmente*
+
+Inserir chamadas wait(), sleep(), yield() e priority() em lugares específicos para forçar falhas.
+
+*Automátizada*
+
+Você poderia utilizar uma classe com um único método:
+
+'''vim
+public class ThreadJigglePoint {
+    public static void jiggle() {
+    }
+}
+'''
+
+É possível adicionar esta chamada em vários lugares no código:
+
+'''vim
+public synchronized String nextUrlOrNull() {
+    if (hasNext()) {
+        ThreadJigglePoint.jigle();
+        String url = urlGenerator.next();
+        ThreadJigglePoint.jigle();
+        updateHasNext();
+        ThreadJigglePoint.jigle();
+        return url;
+    }
+    return null;
+}
+'''
+
+A chamada agora pode selecionar aleatoriamente uma das ações: fazer nada, dormir ou ficar passivo.
 
 ## Abreviações
 
