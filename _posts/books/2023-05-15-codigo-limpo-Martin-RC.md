@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Resumo: Código Limpo - R. C. Martin"
+date: 2023-05-18 17:00 -0300
+categories: livros computacao
+---
+
 ## Capítulo 12 - Emergência
 
 Quatro regras do Projeto Simples
