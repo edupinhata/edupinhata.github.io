@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Corrida Tem Running de Itu"
-date:   2023-05-05 12:00 -0300
+date:   2023-06-05 12:00 -0300
 categories: pessoal 
 ---
 
