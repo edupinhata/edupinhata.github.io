@@ -5,7 +5,7 @@ date:   2023-06-05 12:00 -0300
 categories: pessoal 
 ---
 
-<img src="{{site.baseurl}}/images/2023-05-05/2023-05-05-tem-running01.jpeg">
+![Final da corrida.](/images/2023-06-05/2023-06-05-tem-running01.jpeg)
 
 Mais uma corrida para a conta. Neste ano eu tenho como objetivo correr 10 quilômetros sem parar. Não estabeleci nenhuma meta de tempo, mas é necessário que seja sem parar.
 
@@ -22,4 +22,4 @@ Consegui um tempo melhor do que a corrida anterior da Track Adn Field Iguatemi a
 Lembrete para o futuro: Talvez correr em outra cidade sem ser para competir não seja tão interessante: dirigir 100km para correr 5km não parece ser muito inteligente. 
 
 
-<img src="{{site.baseurl}}/images/2023-05-05/2023-05-05-tem-running02.jpeg">
+![Final da corrida no pódio. Não era oficial nosso, though.](/images/2023-06-05/2023-06-05-tem-running02.jpeg)
