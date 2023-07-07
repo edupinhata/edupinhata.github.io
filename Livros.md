@@ -14,5 +14,5 @@ me dedico sempre a ler um pouco mais.
 
 ### Coaching
 
-- [7 hábitos das pessoas altamente eficazes - S. R. Covey]()
+- [7 hábitos das pessoas altamente eficazes - S. R. Covey]({% post_url 2023-05-15-codigo-limpo-Martin-RC %})
 
