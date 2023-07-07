@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Resumo: 7 Hábitos das pessoas altamente eficazes - Stephen R. Covey"
+date: 2023-07-07 12:00 -0300
+categories: livros desenvolvimento
+---
 
 O ser humano tem algumas habilidades que os distinguem dos animais:
 1. **imaginação**: capacidade de criar, na mente, imagens que transcendem a realidade presente.
