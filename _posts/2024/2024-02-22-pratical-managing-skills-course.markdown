@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Course Conclusion: Practical Leadership Skills!"
-date:   2023-05-18 12:00 -0300
+date:   2024-02-22 12:00 -0300
 categories: courses 
 ---
 
