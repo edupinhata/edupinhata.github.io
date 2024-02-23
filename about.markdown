@@ -10,7 +10,6 @@ Hi, I'm Eduardo Pinhata.
 This is a personal blog with miscelaneous of my life. I'm tired of most social media time waste, but I still want to
 have a space in the www.
 
-
 ### Programming Language
 - Java -  ●●●○○
 - C# - ●●○○○
@@ -31,5 +30,14 @@ have a space in the www.
 **2023**
 - [Código Limpo - R. C. Martin]({% post_url 2023-05-18-codigo-limpo-Martin-RC %})
 - [7 hábitos das pessoas altamente eficazes - S. R. Covey]({% post_url 2023-07-07-Sete-habitos-das-pessoas-altamente-eficazes %})
+
+### Current Hobbies
+
+- Training for duathlon
+- Music
+- Lectures and Speeches
+- Studio and Audio production
+- Doramas
+
 
 ○●◐
