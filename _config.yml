@@ -35,6 +35,7 @@ header_pages:
   - about.markdown
   - Cursos.md
   - Livros.md
+  - BlogsAndPeople.md
 
 minima:
   skin: dark
