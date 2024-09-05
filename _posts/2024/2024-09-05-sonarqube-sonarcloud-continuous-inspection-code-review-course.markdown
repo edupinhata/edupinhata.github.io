@@ -5,6 +5,8 @@ date:   2024-09-05 10:00 -0300
 categories: courses 
 ---
 
+## Overview
+
 Intruduction of the SonarQube tool. It was not an really deep course, although gave an overview of the tool.
 
 Some of the topics were:
@@ -38,5 +40,6 @@ These are two ways to identify how complex the code is, therefore how difficult 
 - **Reliability Rating:** Related with the number of bugs and its severity.
 - **Security Rating:** Related with the number of vulnerabilities and its severity.
 
+## Certificate
 
 ![Certificate](/images/Certificates/SonarQubeCourse.jpg)
