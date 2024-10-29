@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Understand phone hardware analogies"
+title:  "(WIP) Understand phone hardware analogies"
 date:   2024-04-02 12:00 -0300
 categories: reflection smartphone
 ---
