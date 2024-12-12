@@ -46,4 +46,9 @@ Of course, these tips are for those who want to use the phone with almost no lag
 
 ### Other points to consider in the price
 
-Another point to consider is the quality of the phone material. If the phone is well-built with high-quality materials, it will last longer. It's common for an iPhone to last 5-8 years in careful hands. Conversely, cheaper phones may last only a year even in careful hands. This should be factored into your price calculations. Spend $1,000 on a phone that will last really well for 4-5 years, or $300 on a phone that will last for a year. In this example, the first option is cheaper.
+Another point to consider is the quality of the phone material. If the phone is well-built with high-quality materials, it will last longer. It's common for an iPhone to last 5-8 years in careful hands. Conversely, cheaper phones may last only a year even in careful hands. This should be factored into your price calculations. Spend $1,000 on a phone that will last really well for 4-5 years, or $300 on a phone that will last for a year. In this example, the first option is cheaper and will deliver more speed and quality in many aspects, for example, photo quality.
+
+
+### Price Benefit curve
+
+I could really describe the benefit to purchase something by a curve of price per benefit. 
