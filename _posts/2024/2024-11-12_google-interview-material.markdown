@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "(WIP) Google Iterview Material"
+title:  "Google Iterview Material"
 date:   2024-11-12 10:00 -0300
 categories: interview 
 ---
