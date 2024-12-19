@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Google Iterview Material"
+title:  "Google Interview Material"
 date:   2024-11-12 10:00 -0300
 categories: interview 
----
+  ---
 
 ## Introduction
 
