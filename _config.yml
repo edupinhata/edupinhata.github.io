@@ -36,6 +36,7 @@ header_pages:
   - Cursos.md
   - Livros.md
   - BlogsAndPeople.md
+  - Microblog.md
 
 minima:
   skin: dark
