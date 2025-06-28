@@ -6,6 +6,8 @@ permalink: /microblog/
 
 # 2025
 
+- **27/06:** sadly not as productive as I wanted. but wrote design of the solution found yesterday. 
+- **26/06:** Solved the double about design. Got an interesting solucionar that might be good in a blog.   Algo got computer theory class, which was productive . We talked about some problems that might be hard to solve usina finite automato and slme that are impossible. also talked about graph coloring problem, vertices coloring problem and the conversion of ine to other. 
 - **25/06:** Worked the whole day in a solution design of a loader that receive one controller or other depending on a configuration. Each controller should have a different validation, made by a validator. Though in a design that has two controllers that extends a common parent, and also two validators that extends a common parent. Although, got a lot of ECB Injection problems, so I need to think in other design. 
 - **24/06:** Today we reviewed the estimation of features that I did yesterday. There was not much suprise, but they asked us to make a conversion of the story points metrics that we use to one that look like to the one used by Marrocco team. Funny thing is that, after the conversion made, the results were so far from the other team that the conversion could not be used. I'm curious is the conversion that I used was not good, or if the other team is not really following the metric that the management wanted us to follow. Anyway, synchronize both team metrics in scrum is a good topic to study.
 Despite that, I also started the design of a feature. The problem in this design is that there is a input that should use two different validations depending on the page configuration. I'm still figuring out a good way to do it.
