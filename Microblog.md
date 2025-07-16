@@ -6,7 +6,10 @@ permalink: /microblog/
 
 # 2025
 
-- **13/07:** Service. Rest. Worked on the colorizing problem.
+- **16/07:** Working in the performance improvement for colorizing problem. Got a lot of advances, but some instances are still tricky.
+- **15/07:** Worked in the colorizing problem. Improved performance and the instance that took almost 10 hours to run, ran in 3 minutes. But some instances was having heap problems. Finally finished the documents that I was delayed from work. Now officially in vacations!
+- **14/07:** Not so productive. Made some meetings to help guys with architecture design, and worked in the video.
+- **13/07:** Service. Rest. Worked on the colorizing problem. Could finish first implementation of colorizing problem, but it was too low performance.
 - **12/07:** worked the whole day with colorizing problem. Got close to implement the article algorithm.
 - **27/06:** sadly not as productive as I wanted. but wrote design of the solution found yesterday. 
 - **26/06:** Solved the double about design. Got an interesting solucionar that might be good in a blog.   Algo got computer theory class, which was productive . We talked about some problems that might be hard to solve usina finite automato and slme that are impossible. also talked about graph coloring problem, vertices coloring problem and the conversion of ine to other. 
