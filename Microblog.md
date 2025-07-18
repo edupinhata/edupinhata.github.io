@@ -7,7 +7,7 @@ permalink: /microblog/
 # 2025
 
 **July/25**
-- **18/07:** Executed an instance of aws XL (8 cores + 32Gb). I could load bigger instances, but it was taking forever to process. Probably my M3 processor is way stronger than I thought. I'll need to make further optimization in the code.
+- **18/07:** Executed an instance of aws XL (8 cores + 32Gb). I could load bigger instances, but it was taking forever to process. Probably my M3 processor is way stronger than I thought. I'll need to make further optimization in the code. Updates: just made a new structure to deal with adjacents nodes and the instance that was consumming over 30Gb is now consuming under 2Gb. Impressive how it's possible to optimize a code.
 - **17/07:** Almost 4 hours from Sorocaba to São Paulo to have classes. Classes were good and I had some insights from the colorizing problem: maxNullMatrix can be done faster using heuristics. Maybe there are still optimization to be done since a group could run their program using 24Gb, maybe I can optimize the adjacency matrix by not saving half that is duplicated.
 - **16/07:** Working in the performance improvement for colorizing problem. Got a lot of advances, but some instances are still tricky.
 - **15/07:** Worked in the colorizing problem. Improved performance and the instance that took almost 10 hours to run, ran in 3 minutes. But some instances was having heap problems. Finally finished the documents that I was delayed from work. Now officially in vacations!
