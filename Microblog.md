@@ -6,11 +6,16 @@ permalink: /microblog/
 
 # 2025
 
+**July/25**
+- **18/07:** Executed an instance of aws XL (8 cores + 32Gb). I could load bigger instances, but it was taking forever to process. Probably my M3 processor is way stronger than I thought. I'll need to make further optimization in the code.
+- **17/07:** Almost 4 hours from Sorocaba to São Paulo to have classes. Classes were good and I had some insights from the colorizing problem: maxNullMatrix can be done faster using heuristics. Maybe there are still optimization to be done since a group could run their program using 24Gb, maybe I can optimize the adjacency matrix by not saving half that is duplicated.
 - **16/07:** Working in the performance improvement for colorizing problem. Got a lot of advances, but some instances are still tricky.
 - **15/07:** Worked in the colorizing problem. Improved performance and the instance that took almost 10 hours to run, ran in 3 minutes. But some instances was having heap problems. Finally finished the documents that I was delayed from work. Now officially in vacations!
 - **14/07:** Not so productive. Made some meetings to help guys with architecture design, and worked in the video.
 - **13/07:** Service. Rest. Worked on the colorizing problem. Could finish first implementation of colorizing problem, but it was too low performance.
 - **12/07:** worked the whole day with colorizing problem. Got close to implement the article algorithm.
+
+**June/2025**
 - **27/06:** sadly not as productive as I wanted. but wrote design of the solution found yesterday. 
 - **26/06:** Solved the double about design. Got an interesting solucionar that might be good in a blog.   Algo got computer theory class, which was productive . We talked about some problems that might be hard to solve usina finite automato and slme that are impossible. also talked about graph coloring problem, vertices coloring problem and the conversion of ine to other. 
 - **25/06:** Worked the whole day in a solution design of a loader that receive one controller or other depending on a configuration. Each controller should have a different validation, made by a validator. Though in a design that has two controllers that extends a common parent, and also two validators that extends a common parent. Although, got a lot of ECB Injection problems, so I need to think in other design. 
