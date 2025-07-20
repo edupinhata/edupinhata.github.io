@@ -7,6 +7,8 @@ permalink: /microblog/
 # 2025
 
 **July/25**
+- **20/07:** Preached the sermon, it was ok, but got lost in the file. Got some results of the coloring problem. Came to parents house to travel. Completed the report about Colorizing problem.
+- **19/07:** Swimming training: practiced some back stroke starts. Didn't swim that far (1125m) since I keep getting tired. Parents in law visit. Prepared sermon about salt of the earth.
 - **18/07:** Executed an instance of aws XL (8 cores + 32Gb). I could load bigger instances, but it was taking forever to process. Probably my M3 processor is way stronger than I thought. I'll need to make further optimization in the code. Updates: just made a new structure to deal with adjacents nodes and the instance that was consumming over 30Gb is now consuming under 2Gb. Impressive how it's possible to optimize a code.
 - **17/07:** Almost 4 hours from Sorocaba to São Paulo to have classes. Classes were good and I had some insights from the colorizing problem: maxNullMatrix can be done faster using heuristics. Maybe there are still optimization to be done since a group could run their program using 24Gb, maybe I can optimize the adjacency matrix by not saving half that is duplicated.
 - **16/07:** Working in the performance improvement for colorizing problem. Got a lot of advances, but some instances are still tricky.
