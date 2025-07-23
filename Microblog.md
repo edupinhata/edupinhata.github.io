@@ -7,6 +7,8 @@ permalink: /microblog/
 # 2025
 
 **July/25**
+- **22/07:** Hotel breakfast (delicious). Skyglass. Parque do Caracol with many waterfalls. Tried Castelinho do Caracol, but it was closed :(. Alpen Park, where we had lunch and went in the sled (Trenó). Catedral de Pedra, where we climb to the church tower, where the bells are. Coffee nearby the church (Café Cultura). Walk in the Canela's main street, where we found the festival de inverno in Fornos de Canela. We walk in the nearby and it's really pretty.
+- **21/07:** Trip to Rio Grande do Sul, Gramado. Pappardelle lunch: really good pasta. Fumacinha: great first tour day through city to have an overview (neighborhood, Lago Negro, main street). São Pedro Church. Fonte do Amor. Cereiejras in Praça Major Nicoletti. Gellatto in Capannone.
 - **20/07:** Preached the sermon, it was ok, but got lost in the file. Got some results of the coloring problem. Came to parents house to travel. Completed the report [v1](https://github.com/edupinhata/25Q2-computer-theory/blob/main/Colorize/report/Edge_Coloring_Graph_Implementation.pdf) about Colorizing problem.
 - **19/07:** Swimming training: practiced some back stroke starts. Didn't swim that far (1125m) since I keep getting tired. Parents in law visit. Prepared sermon about salt of the earth.
 - **18/07:** Executed an instance of aws XL (8 cores + 32Gb). I could load bigger instances, but it was taking forever to process. Probably my M3 processor is way stronger than I thought. I'll need to make further optimization in the code. Updates: just made a new structure to deal with adjacents nodes and the instance that was consumming over 30Gb is now consuming under 2Gb. Impressive how it's possible to optimize a code.
