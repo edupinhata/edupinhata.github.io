@@ -7,6 +7,7 @@ permalink: /microblog/
 # 2025
 
 **July/25**
+- **23/07:** Hotel breakfast. Road to Nova Petrópolis. In the road, the Janela do Vale observatory, near to Sus Tal café. Aldean dos Imigrantes, with a delicious breakfast with Cuca,   apfelstrudel and Apple tea. Vila Holandesa, which actually is just a restaurant (Don't go expecting more than this). It's pretty, delicious, but expensive. Winter festival. Labirinto Verde. Back to gramado, we went to Lago Negro, and road the pedal boat. 
 - **22/07:** Hotel breakfast (delicious). Skyglass. Parque do Caracol with many waterfalls. Tried Castelinho do Caracol, but it was closed :(. Alpen Park, where we had lunch and went in the sled (Trenó). Catedral de Pedra, where we climb to the church tower, where the bells are. Coffee nearby the church (Café Cultura). Walk in the Canela's main street, where we found the festival de inverno in Fornos de Canela. We walk in the nearby and it's really pretty.
 - **21/07:** Trip to Rio Grande do Sul, Gramado. Pappardelle lunch: really good pasta. Fumacinha: great first tour day through city to have an overview (neighborhood, Lago Negro, main street). São Pedro Church. Fonte do Amor. Cereiejras in Praça Major Nicoletti. Gellatto in Capannone.
 - **20/07:** Preached the sermon, it was ok, but got lost in the file. Got some results of the coloring problem. Came to parents house to travel. Completed the report [v1](https://github.com/edupinhata/25Q2-computer-theory/blob/main/Colorize/report/Edge_Coloring_Graph_Implementation.pdf) about Colorizing problem.
