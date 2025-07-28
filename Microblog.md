@@ -7,6 +7,10 @@ permalink: /microblog/
 # 2025
 
 **July/25**
+- **28/07:**
+- **27/07:** Sunday service. Sang "Suficience" for the first time. Watched Reply 1988.
+- **26/07:** Swimming training. Esther parent's visit home. Watched Reply 1988.
+- **25/07:** Recovering from trip. Worked a little in computer theory class. Esther parent's. Grampa birthday.
 - **24/07:** Hotel breakfast, hot bathtube shower, checkout. Went to Casa do Colono to buy gifts. Had lunch at Papperdele because Esther loved (me too =D). Then we had coffee and hot chocolate at Velha Bruxa (chocolate was too sweet). Went back to the airport and traveled to São Paulo. 
 - **23/07:** Hotel breakfast. Road to Nova Petrópolis. In the road, the Janela do Vale observatory, near to Sus Tal café. Aldean dos Imigrantes, with a delicious breakfast with Cuca,   apfelstrudel and Apple tea. Vila Holandesa, which actually is just a restaurant (Don't go expecting more than this). It's pretty, delicious, but expensive. Winter festival. Labirinto Verde. Back to gramado, we went to Lago Negro, and road the pedal boat. Met the biggest Florybal store (it's impressive, but not pretty). Then we went Gramado's main street, where we saw a store of clocks, the Rua Coberta, St Peter Church at night (really pretty). We talked to a hare krishna guy, saw Caracol Chocolate store, and other stores.
   We went back to the hotel, took a shower and went to Rua Torta, and Lugano's foundue. It was almost 3ºC.
