@@ -7,7 +7,7 @@ permalink: /microblog/
 # 2025
 
 **July/25**
-- **28/07:**
+- **28/07:** Finished Reply 1988. This is one of my favorite Tv Shows of all time. Fixed many things in church, except the mixer. Opened, but couldn't find anything wrong. Will try to factory reset on saturday. Swimming training: 2000 km in 1 hour.
 - **27/07:** Sunday service. Sang "Suficience" for the first time. Watched Reply 1988.
 - **26/07:** Swimming training. Esther parent's visit home. Watched Reply 1988.
 - **25/07:** Recovering from trip. Worked a little in computer theory class. Esther parent's. Grampa birthday.
