@@ -7,7 +7,7 @@ permalink: /microblog/
 # 2025
 
 **September/25**
-- 08/09: 
+- 08/09: Sprint 25Q4_S4 start.
 - 07/09: Mom's sermon. Sivaldo's home lunch. 
 - 06/09: Deployed first version of Renascente front using amplify. 
 - 05/09: Delivery of Counting Cockpit / WKADECOM.
