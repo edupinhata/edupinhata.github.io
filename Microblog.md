@@ -20,6 +20,8 @@ July/25
 
 
 **July/25**
+- **30/07:** Organized my house to end the vacation. Swimming training. Worked on theory of computing exercise.
+- **29/07:** Worked a little in the theory of comouting exercise. Finished second season of Sandman.
 - **28/07:** Finished Reply 1988. This is one of my favorite Tv Shows of all time. Fixed many things in church, except the mixer. Opened, but couldn't find anything wrong. Will try to factory reset on saturday. Swimming training: 2000 km in 1 hour.
 - **27/07:** Sunday service. Sang "Suficience" for the first time. Watched Reply 1988.
 - **26/07:** Swimming training. Esther parent's visit home. Watched Reply 1988.
