@@ -6,6 +6,19 @@ permalink: /microblog/
 
 # 2025
 
+**September/25**
+- 08/09: 
+- 07/09: Mom's sermon. Sivaldo's home lunch. 
+- 06/09: Deployed first version of Renascente front using amplify. 
+- 05/09: Delivery of Counting Cockpit / WKADECOM.
+- 04/09: Church Revival Campaign \ Bible study start.
+- 01/09: Rush to finish everything from Sprint 25Q3_S3.
+
+July/25
+- 31/08: Lincoln sermon.
+- 30/08: Raffa and Allan marriage.
+
+
 **July/25**
 - **28/07:** Finished Reply 1988. This is one of my favorite Tv Shows of all time. Fixed many things in church, except the mixer. Opened, but couldn't find anything wrong. Will try to factory reset on saturday. Swimming training: 2000 km in 1 hour.
 - **27/07:** Sunday service. Sang "Suficience" for the first time. Watched Reply 1988.
