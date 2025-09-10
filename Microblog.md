@@ -7,6 +7,7 @@ permalink: /microblog/
 # 2025
 
 **September/25**
+- 09/09: Finished planning. Study about weight calculation of products. Phd working with resuming credit card news and articles. Also a master dissertation about mathematical model to  reduce credit card manufacture and distribution costs.
 - 08/09: Sprint 25Q4_S4 start.
 - 07/09: Mom's sermon. Sivaldo's home lunch. 
 - 06/09: Deployed first version of Renascente front using amplify. 
