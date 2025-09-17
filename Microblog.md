@@ -7,13 +7,19 @@ permalink: /microblog/
 # 2025
 
 **September/25**
-- 09/09: Finished planning. Study about weight calculation of products. Phd working with resuming credit card news and articles. Also a master dissertation about mathematical model to  reduce credit card manufacture and distribution costs.
-- 08/09: Sprint 25Q4_S4 start.
-- 07/09: Mom's sermon. Sivaldo's home lunch. 
-- 06/09: Deployed first version of Renascente front using amplify. 
-- 05/09: Delivery of Counting Cockpit / WKADECOM.
-- 04/09: Church Revival Campaign \ Bible study start.
-- 01/09: Rush to finish everything from Sprint 25Q3_S3.
+- **16/09:** Phd meeting to check work progress. Sermons preparation.
+- **15/09:** Work. Swim.
+- **14/09:** Preached about Jesus Gospel. Korean fair in Sorocaba: didn't like much, it was expensive and food was not tasty.
+- **13/09:** Prepared sunday's sermon.
+- **12/09:** swimming distance RP 2400yds.
+- **11/09:** Charlie Kirk was shot =(
+- **09/09:** Finished planning. Study about weight calculation of products. Phd working with resuming credit card news and articles. Also a master dissertation about mathematical model to  reduce credit card manufacture and distribution costs.
+- **08/09:** Sprint 25Q4_S4 start.
+- **07/09:** Mom's sermon. Sivaldo's home lunch. 
+- **06/09:** Deployed first version of Renascente front using amplify. 
+- **05/09:** Delivery of Counting Cockpit / WKADECOM.
+- **04/09:** Church Revival Campaign \ Bible study start.
+- **01/09:** Rush to finish everything from Sprint 25Q3_S3.
 
 July/25
 - 31/08: Lincoln sermon.
