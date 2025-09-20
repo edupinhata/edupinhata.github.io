@@ -7,6 +7,8 @@ permalink: /microblog/
 # 2025
 
 **September/25**
+- **19/09:** Finished watching moving and realized again that my life is out of controll. I need to take action to recover controll.
+- **18/09:** Sermon about being filled with Holly Spirit. Whatched Moving.
 - **16/09:** Phd meeting to check work progress. Sermons preparation.
 - **15/09:** Work. Swim.
 - **14/09:** Preached about Jesus Gospel. Korean fair in Sorocaba: didn't like much, it was expensive and food was not tasty.
