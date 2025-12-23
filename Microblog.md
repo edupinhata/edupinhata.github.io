@@ -6,6 +6,9 @@ permalink: /microblog/
 
 # 2025
 
+**December/25**
+- **22/12:** Definetly it's hard to keep the constance of posting here. I need a better tool to microblog. Since last update, a lot of crazy things happened. This is why I was away. Need to reorganize my life. This is what I expect to do in my vacations.
+
 **September/25**
 - **19/09:** Finished watching moving and realized again that my life is out of controll. I need to take action to recover controll.
 - **18/09:** Sermon about being filled with Holly Spirit. Whatched Moving.
@@ -23,9 +26,9 @@ permalink: /microblog/
 - **04/09:** Church Revival Campaign \ Bible study start.
 - **01/09:** Rush to finish everything from Sprint 25Q3_S3.
 
-July/25
-- 31/08: Lincoln sermon.
-- 30/08: Raffa and Allan marriage.
+**July/25**
+- **31/08:** Lincoln sermon.
+- **30/08:** Raffa and Allan marriage.
 
 
 **July/25**
