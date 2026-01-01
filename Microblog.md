@@ -8,9 +8,11 @@ permalink: /microblog/
 
 **December/25**
 - **27/12:** I almost didn't sleep. Not sure if it's the hot weather, or if it's too many things in my head. I feel that I need to slow down or my head will not be able to be productive. I do have too many things in my head. My body is asking for a routine.
+- **22/12:** Definetly it's hard to keep the constance of posting here. I need a better tool to microblog. Since last update, a lot of crazy things happened. This is why I was away. Need to reorganize my life. This is what I expect to do in my vacations.
 
 **November/25**
 - **22/11:** Approved in phd. 
+
 
 **September/25**
 - **20/09:** advanced in studies of shopfloor solving methods. Cut hair. Em Familia church service.
@@ -30,9 +32,9 @@ permalink: /microblog/
 - **04/09:** Church Revival Campaign \ Bible study start.
 - **01/09:** Rush to finish everything from Sprint 25Q3_S3.
 
-July/25
-- 31/08: Lincoln sermon.
-- 30/08: Raffa and Allan marriage.
+**July/25**
+- **31/08:** Lincoln sermon.
+- **30/08:** Raffa and Allan marriage.
 
 
 **July/25**
