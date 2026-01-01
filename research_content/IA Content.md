@@ -1,0 +1,1 @@
+- [Video about how to create a GPT](https://www.youtube.com/watch?v=zCqaxyxNvr8&ab_channel=RodrigoRechmann)

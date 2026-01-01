@@ -6,7 +6,14 @@ permalink: /microblog/
 
 # 2025
 
+**December/25**
+- **27/12:** I almost didn't sleep. Not sure if it's the hot weather, or if it's too many things in my head. I feel that I need to slow down or my head will not be able to be productive. I do have too many things in my head. My body is asking for a routine.
+
+**November/25**
+- **22/11:** Approved in phd. 
+
 **September/25**
+- **20/09:** advanced in studies of shopfloor solving methods. Cut hair. Em Familia church service.
 - **19/09:** Finished watching moving and realized again that my life is out of controll. I need to take action to recover controll.
 - **18/09:** Sermon about being filled with Holly Spirit. Whatched Moving.
 - **16/09:** Phd meeting to check work progress. Sermons preparation.
