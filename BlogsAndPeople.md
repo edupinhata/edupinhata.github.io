@@ -6,3 +6,6 @@
 - [Chris Harrison](https://www.chrisharrison.net/index.php): Carnegie Mellon University professor. Has an really interesting site with his work, travel, etc.
 - [BowerByte](https://www.bowerbyte.com/about/): Programmer blog that works with graphic programming and computational geometry.
 - [Hired in Tech](https://www.hiredintech.com/): blog with courses about interview code design questions. How to design some of famous projects structures like: url shortener, facebook, search engine, etc.
+
+
+- [Papers with Code](https://huggingface.co/papers/trending): page about papers focused in having a well documented code for easy reproducibility.
