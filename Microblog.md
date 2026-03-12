@@ -4,6 +4,11 @@ title: Microblog
 permalink: /microblog/
 ---
 
+# 2026
+
+**March/26**
+- **12/03:** Datastructure and AI tests in University. And as expected, I'm really outdated here.
+
 # 2025
 
 **December/25**
