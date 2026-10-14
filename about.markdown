@@ -13,138 +13,141 @@ last_updated: 2026-10-14
 
 # Sou Eduardo Pinhata
 
-Trabalho com desenvolvimento de software, liderança de equipes e pesquisa em otimização. Gosto de entender problemas, construir soluções e acompanhar seus resultados na prática.
+Atuo em **engenharia de software e liderança de equipes** e desenvolvo minha pesquisa de doutorado em **otimização combinatória**.
 
-Este é meu espaço para compartilhar aprendizados, leituras e os assuntos que fazem parte da minha vida profissional e acadêmica.
+Meu interesse é conectar problemas concretos, soluções e avaliação de resultados. Aqui compartilho aprendizados e leituras sobre software, gestão, inteligência artificial e otimização.
 
 <p class="about-updated">Última atualização: <time datetime="{{ page.last_updated | date: '%Y-%m-%d' }}">{{ page.last_updated | date: '%d/%m/%Y' }}</time></p>
 </div>
 
-## Trabalho e engenharia de software
+## Engenharia de software e liderança
 
-Atuo como **Software Team Supervisor**, liderando uma equipe de desenvolvimento, com atribuições de gestão e responsabilidades de Scrum Master. Meu interesse percorre todo o ciclo de uma solução: compreender a necessidade do cliente, pensar o design e a arquitetura, desenvolver, testar, validar, entregar e monitorar seu comportamento em produção.
+Sou **Software Team Supervisor**, com responsabilidades de gestão e atuação como Scrum Master. Meu trabalho e meus interesses se organizam em três frentes:
 
-Também me interessam os processos que sustentam esse trabalho: organização da equipe, comunicação, relatórios e acompanhamento das entregas.
+- **Liderança e gestão:** organização do trabalho, distribuição de responsabilidades e acompanhamento das entregas, com foco na autonomia da equipe.
+- **Engenharia de software:** desenvolvimento e decisões técnicas conectados às necessidades dos clientes. Interesso-me pelo ciclo completo, da arquitetura e dos testes à operação em produção.
+- **Adoção de IA:** estudo e incorporação de ferramentas ao desenvolvimento e à segurança, com avaliação de qualidade, produtividade e impacto sobre a equipe.
 
 <details markdown="1">
-<summary>Meu ambiente de desenvolvimento</summary>
+<summary>Ambiente técnico e práticas de engenharia</summary>
 
-Trabalhamos com **Java, WildFly e PrimeFaces**, testes automatizados com **Robot Framework**, **Docker** e **CI/CD no GitLab**. O ambiente inclui ferramentas da **Atlassian**, **SonarQube**, **IQServer** e **Fortify**, além de assistentes de desenvolvimento como **Claude Code** e **Cline**.
+O contexto técnico da equipe inclui:
 
-Essas tecnologias fazem parte do contexto em que avalio práticas de desenvolvimento, arquitetura, testes, qualidade e segurança. Tenho interesse em soluções que possam ser aplicadas ao ciclo completo de software e aos processos de gestão ao seu redor.
+- **Desenvolvimento:** Java, WildFly e PrimeFaces.
+- **Testes e entrega:** Robot Framework, Docker e CI/CD no GitLab.
+- **Gestão, qualidade e segurança:** ferramentas da Atlassian, SonarQube, IQServer e Fortify.
+- **Assistentes de desenvolvimento:** Claude Code e Cline.
+
+Esse é o ambiente em que avalio práticas de arquitetura, testes, qualidade e segurança, além dos processos de comunicação, relatórios e acompanhamento das entregas.
 
 </details>
 
 <details markdown="1">
-<summary>IA no desenvolvimento, na segurança e na entrega</summary>
+<summary>Adoção e avaliação de IA na engenharia de software</summary>
 
-Estamos estudando e incorporando o uso de inteligência artificial no desenvolvimento de software e em atividades de segurança. Também exploramos possibilidades de aplicação em CI/CD, considerando as questões de segurança envolvidas.
+Estamos estudando e incorporando IA ao desenvolvimento e a atividades de segurança de software. Também exploramos aplicações em CI/CD e possibilidades de apoio à gestão e à produção de relatórios.
 
-Interessa-me compreender onde essas ferramentas ajudam, como validar seus resultados e quais efeitos produzem sobre qualidade, produtividade e o trabalho da equipe. Também acompanho possíveis usos de IA para apoiar gestão, relatórios e organização dos processos.
+Meu interesse está em identificar usos concretos, validar os resultados e avaliar seus efeitos sobre qualidade, produtividade, segurança e o trabalho da equipe. Algumas perguntas orientam essa exploração:
 
-</details>
-
-## Pesquisa no doutorado
-
-Curso doutorado sob orientação do professor [Cláudio Nogueira de Meneses](https://www.ufabc.edu.br/ensino/docentes/claudio-nogueira-de-meneses), na área de **otimização combinatória**. Tenho explorado problemas de organização acadêmica e produção industrial, buscando conectar métodos de otimização a necessidades práticas.
-
-Em paralelo, estudo **grandes modelos de linguagem (LLMs)** e outras técnicas de inteligência artificial, explorando possíveis contribuições para a modelagem e a resolução de problemas de otimização. Meu recorte de pesquisa ainda está em amadurecimento.
-
-<details markdown="1">
-<summary>Alocação de alunos, professores, turmas e horários</summary>
-
-Tenho olhado para a distribuição de alunos e professores entre turmas e horários, considerando restrições e preferências dos professores e limitações dos espaços físicos disponíveis para as salas de aula.
-
-Nesse contexto, quero compreender como representar as diferentes necessidades e restrições e como avaliar as soluções de alocação. É uma frente de exploração para a pesquisa, ainda sem um recorte definitivo.
+- Quais atividades de desenvolvimento, testes e segurança podem se beneficiar de IA?
+- Como validar as contribuições dessas ferramentas ao longo do ciclo de entrega?
+- Como apoiar a gestão e tornar a equipe mais autônoma, com responsabilidades e acompanhamento claros?
 
 </details>
 
-<details markdown="1">
-<summary>Produção e personalização de cartões de crédito</summary>
+## Formação e pesquisa
 
-Outro contexto que tenho explorado é a produção e personalização de cartões de crédito, que oferece diferentes possibilidades de otimização.
+- **Doutorado em andamento:** pesquisa em otimização combinatória, sob orientação do professor [Cláudio Nogueira de Meneses](https://www.ufabc.edu.br/ensino/docentes/claudio-nogueira-de-meneses).
+- **Mestrado concluído:** Ciência da Computação — UFABC.
+- **Bacharelados concluídos:** Ciência e Tecnologia e Ciência da Computação — UFABC.
 
-Uma das decisões de interesse é **como agrupar os cartões a serem produzidos para reduzir custos e tempos de produção**. Estou amadurecendo o recorte do problema e suas restrições; o agrupamento é uma das abordagens em consideração.
-
-</details>
-
-<details markdown="1">
-<summary>Formação e leituras acadêmicas</summary>
-
-Minha formação inclui bacharelado em Ciência e Tecnologia, bacharelado em Ciência da Computação e mestrado em Ciência da Computação, pela UFABC.
-
-Atualmente, curso disciplinas obrigatórias do doutorado e participo dos seminários exigidos pelo programa. Na disciplina de metodologia de pesquisa, estou aproveitando as atividades para buscar e estudar artigos que relacionam otimização e LLMs. Essas leituras contribuem para a definição do tema de pesquisa.
-
-</details>
-
-## Prioridades atuais
-
-**Referência: outubro de 2026.** No trabalho, minha prioridade é aprimorar a gestão e desenvolver a autonomia da equipe. No doutorado, é avançar nas atividades obrigatórias e amadurecer o tema de pesquisa.
+Minha pesquisa está na etapa de definição do tema, com exploração de problemas de organização acadêmica e produção industrial. Estudo também **grandes modelos de linguagem (LLMs)** e suas possíveis contribuições para a modelagem e a resolução de problemas de otimização.
 
 <details markdown="1">
-<summary>Até janeiro de 2027: gestão e autonomia do time</summary>
+<summary>Problemas de otimização em estudo</summary>
 
-Quero organizar a estrutura da equipe, os relatórios e os processos de trabalho, conciliando melhor minhas responsabilidades de gestão e de Scrum Master.
+- **Alocação acadêmica:** distribuição de alunos e professores entre turmas e horários, considerando restrições, preferências docentes e limitações dos espaços físicos. Investigo como representar essas condições e avaliar o equilíbrio entre preferências e aproveitamento dos recursos.
 
-Para isso, pretendo reduzir minha participação direta em tarefas técnicas de desenvolvimento e revisão de código que hoje consomem uma parcela significativa do meu tempo. O objetivo é deixar o time mais independente da minha intervenção cotidiana.
+- **Produção industrial:** produção e personalização de cartões de crédito. Uma das decisões em estudo é como agrupar os cartões para reduzir custos e tempos de produção, respeitando as restrições do processo.
 
-Nesse período, delegação, distribuição de responsabilidades, acompanhamento das entregas e melhoria de processos são assuntos especialmente relevantes. Minhas prioridades profissionais para o horizonte de seis meses ainda estão em definição.
+Esses são contextos de aplicação em exploração. A definição do problema e do método de pesquisa ainda está em andamento.
 
 </details>
 
 <details markdown="1">
-<summary>Até abril de 2027: formação e definição da pesquisa</summary>
+<summary>Leituras e questões de pesquisa</summary>
 
-Nos primeiros três meses, minha dedicação ao doutorado está concentrada nas disciplinas obrigatórias, nos seminários e nas leituras sobre otimização e LLMs. Essa etapa de formação deve se estender por aproximadamente seis meses.
+Curso disciplinas obrigatórias e participo dos seminários do doutorado. Na disciplina de metodologia de pesquisa, concentro minhas leituras em artigos que relacionam otimização e LLMs, como apoio à definição do tema.
 
-Nesse horizonte, pretendo concluir os seminários obrigatórios e definir meu tema de pesquisa, avançando para iniciar a produção de artigos científicos. Os problemas de alocação acadêmica e de agrupamento de cartões permanecem como contextos de aplicação em exploração.
+As questões que orientam essas leituras incluem:
 
-</details>
-
-## Perguntas que orientam minhas leituras
-
-Estas perguntas organizam meus interesses atuais e podem evoluir à medida que o trabalho e a pesquisa avançam.
-
-<details markdown="1">
-<summary>Equipe, processos e adoção de IA</summary>
-
-- Como organizar responsabilidades e processos para tornar a equipe mais autônoma?
-- Como acompanhar as entregas e produzir relatórios úteis sem concentrar as decisões em mim?
-- Como incorporar IA ao ciclo de desenvolvimento e avaliar seus efeitos sobre produtividade, qualidade e segurança?
-- Quais atividades de testes, segurança e CI/CD podem se beneficiar de IA, e como validar os resultados?
+- Como representar restrições e objetivos nos problemas de alocação acadêmica e agrupamento de produção?
+- Como avaliar a qualidade das soluções nesses contextos?
+- Em quais etapas LLMs e outras técnicas de IA podem contribuir, e como avaliar essa contribuição?
 
 </details>
 
-<details markdown="1">
-<summary>Otimização e aplicações práticas</summary>
+## Além do trabalho
 
-- Como distribuir alunos e professores entre turmas e horários considerando preferências docentes e limitações dos espaços físicos?
-- Como avaliar os compromissos entre atender preferências e aproveitar os recursos disponíveis?
-- Como agrupar cartões para reduzir custos e tempos de produção, respeitando as restrições do processo?
-- Em quais etapas LLMs e outras técnicas de IA podem contribuir para esses problemas, e como avaliar essa contribuição?
+Valorizo o tempo com a família e os amigos e participo da minha igreja por meio da música, de devocionais e de sermões. Também gosto de leitura, bicicleta e videogame.
+
+## Contexto e prioridades
+
+Uso IA como apoio ao trabalho, à pesquisa e à organização do cotidiano. Busco clareza para escolher prioridades e avançar de forma sustentável, considerando o tempo disponível e as responsabilidades de cada área da vida.
+
+<details markdown="1">
+<summary>Foco profissional e acadêmico — outubro de 2026</summary>
+
+| Área | Foco | Horizonte |
+| :--- | :--- | :--- |
+| Gestão | Autonomia da equipe e melhoria dos processos | Até jan. de 2027 |
+| Doutorado | Formação e definição do tema de pesquisa | Até abr. de 2027 |
+
+Para avançar nesses objetivos:
+
+- **Na equipe:** aprimorar relatórios e processos de gestão e de Scrum Master; ampliar a delegação de desenvolvimento e revisão de código, abrindo espaço para a liderança.
+- **No doutorado:** avançar nas disciplinas e leituras sobre otimização e LLMs, concluir os seminários obrigatórios e definir o tema, criando condições para iniciar a produção de artigos científicos.
+
+Esses horizontes representam meu planejamento em outubro de 2026 e podem ser revistos conforme o trabalho e a pesquisa evoluam.
 
 </details>
 
-## Assuntos que acompanho
+<details markdown="1">
+<summary>Contexto pessoal para planejamento com IA</summary>
 
-Acompanho engenharia de software, arquitetura, testes, segurança, IA aplicada ao desenvolvimento, liderança de equipes e otimização. Gosto de conteúdos que conectem ideias a problemas concretos e ajudem a avaliar seus resultados.
+Além do trabalho e do doutorado, minha rotina inclui:
+
+- **Igreja:** toco na banda, gravo um devocional diário com leitura e reflexões da Bíblia e faço sermões.
+- **Saúde:** quero conciliar exercícios e alimentação. Gosto de bicicleta, natação e academia; gostaria de incluir corrida, embora tenha menos afinidade com ela.
+- **Investimentos:** cuido dos investimentos da família, mantenho uma carteira de ações e uso relatórios da Suno Research como apoio às decisões.
+- **Convivência e lazer:** procuro preservar tempo para família e amigos, além de leitura e videogame.
+
+**Condições para o planejamento:** os cuidados com a bebê e a necessidade de ficar em casa limitam especialmente a natação e a academia. As sugestões precisam considerar o tempo e a energia disponíveis e preservar espaço para convivência e descanso.
+
+Quero ter uma visão mais clara desses compromissos e interesses e recuperar a sensação de controle sobre a rotina.
+
+</details>
 
 <details markdown="1">
-<summary>O que torna uma leitura ou oportunidade relevante para mim</summary>
+<summary>Como tornar o apoio de IA relevante para mim</summary>
 
-No momento, notícias, artigos, cursos e eventos têm especial relevância quando ajudam a:
+Este perfil oferece contexto para selecionar leituras, avaliar oportunidades e organizar próximos passos. São especialmente úteis contribuições que ajudem a:
 
-- Estruturar a equipe, distribuir responsabilidades e aprimorar os processos de gestão.
-- Compreender aplicações de IA ao desenvolvimento e à segurança de software, com atenção à validação dos resultados.
-- Avançar nas leituras sobre otimização e LLMs e na definição do tema de doutorado.
-- Conhecer métodos e aplicações relacionados à alocação acadêmica ou ao agrupamento de produção.
+- Estruturar a gestão e desenvolver a autonomia da equipe.
+- Avaliar aplicações de IA à engenharia de software, com atenção à qualidade e à segurança.
+- Avançar na definição da pesquisa e nas leituras sobre otimização e LLMs.
+- Conciliar compromissos profissionais, acadêmicos e pessoais em um planejamento viável.
 
-Meus interesses são mais amplos que minhas prioridades imediatas. A relação de uma oportunidade com os objetivos atuais é importante para decidir onde dedicar tempo e atenção.
+Para transformar esse contexto em sugestões úteis:
+
+1. **Relacione a sugestão às prioridades:** indique por que uma leitura, curso, evento ou atividade é relevante e qual esforço exige.
+2. **Proponha próximos passos viáveis:** diferencie compromissos, interesses e possibilidades futuras, considerando minha rotina.
+3. **Confira a referência temporal:** confirme se as metas datadas continuam atuais antes de orientar novas decisões.
 
 </details>
 
 ## Contato e outras leituras
 
-Você pode me encontrar no [GitHub](https://github.com/{{ site.github_username }}) ou pelo [email](mailto:{{ site.email }}). Também mantenho registros de [cursos]({{ '/cursos/' | relative_url }}) e [livros]({{ '/livros/' | relative_url }}) aqui no site.
+Para conversar sobre engenharia de software, liderança, IA ou otimização, você pode me encontrar no [GitHub](https://github.com/{{ site.github_username }}) ou pelo [email](mailto:{{ site.email }}). Também mantenho registros de [cursos]({{ '/cursos/' | relative_url }}) e [livros]({{ '/livros/' | relative_url }}) aqui no site.
 
 </div>

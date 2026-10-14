@@ -10,10 +10,17 @@
 .about-page summary:focus-visible { outline: 3px solid #256b9b; outline-offset: 5px; border-radius: 2px; }
 .about-page details[open] summary { margin-bottom: 1rem; }
 .about-page details > :last-child { margin-bottom: 0; }
+.about-page li + li { margin-top: .5rem; }
+.about-page table { width: 100%; table-layout: fixed; margin: 1rem 0; font-size: .9rem; line-height: 1.5; }
+.about-page th, .about-page td { padding: .65rem; vertical-align: top; overflow-wrap: anywhere; }
+.about-page th { background: #eaf0f5; color: #234b65; }
+.about-page th:first-child { width: 22%; }
+.about-page th:last-child { width: 26%; }
 @media (max-width: 480px) {
   .about-portrait { width: 85px; height: auto; margin-left: 1rem; }
   .about-page h1 { font-size: 1.7rem; }
   .about-page details { padding: .8rem; }
+  .about-page th, .about-page td { padding: .4rem; }
 }
 @media print {
   .about-page details { background: transparent; break-inside: avoid; }
