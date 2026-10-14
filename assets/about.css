@@ -1,0 +1,21 @@
+.about-page { color: #30343b; line-height: 1.75; }
+.about-intro { display: flow-root; padding-bottom: 1.5rem; border-bottom: 1px solid #dce3e8; }
+.about-portrait { float: right; width: 130px; height: 130px; object-fit: cover; border-radius: 50%; margin: 0 0 1rem 1.5rem; }
+.about-page h1 { font-size: 2rem; line-height: 1.2; letter-spacing: -.03em; }
+.about-page h2 { margin-top: 2.5rem; font-size: 1.5rem; line-height: 1.35; }
+.about-updated { font-size: .875rem; color: #5d6671; }
+.about-page details { margin: .85rem 0; padding: .9rem 1.1rem; border: 1px solid #dce3e8; border-radius: 10px; background: #f7f9fb; }
+.about-page summary { cursor: pointer; font-weight: 600; color: #234b65; line-height: 1.5; }
+.about-page summary:hover { text-decoration: underline; }
+.about-page summary:focus-visible { outline: 3px solid #256b9b; outline-offset: 5px; border-radius: 2px; }
+.about-page details[open] summary { margin-bottom: 1rem; }
+.about-page details > :last-child { margin-bottom: 0; }
+@media (max-width: 480px) {
+  .about-portrait { width: 85px; height: 85px; margin-left: 1rem; }
+  .about-page h1 { font-size: 1.7rem; }
+  .about-page details { padding: .8rem; }
+}
+@media print {
+  .about-page details { background: transparent; break-inside: avoid; }
+  .about-page details > * { display: block !important; }
+}
