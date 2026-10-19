@@ -33,6 +33,10 @@ theme: minima
 plugins:
   - jekyll-feed
 
+collections:
+  microblog:
+    output: false
+
 header_pages:
   - about.markdown
   - Cursos.md

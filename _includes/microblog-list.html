@@ -1,0 +1,15 @@
+{% assign notes = site.microblog | where_exp: 'note', 'note.published != false' | where_exp: 'note', 'note.date <= site.time' | sort: 'date' | reverse %}
+{% assign note_limit = include.limit | default: notes.size %}
+{% for note in notes limit:note_limit %}
+  {% assign note_id = note.slug | prepend: 'nota-' %}
+  <article class="micro-note"{% unless include.preview %} id="{{ note_id | escape }}"{% endunless %}>
+    <h3 class="micro-note-date">
+      <a href="{{ '/microblog/' | relative_url }}#{{ note_id | escape }}" aria-label="Nota de {{ note.date | date: '%d/%m/%Y' }}">
+        <time datetime="{{ note.date | date_to_xmlschema }}">{{ note.date | date: '%d/%m/%Y' }}</time>
+      </a>
+    </h3>
+    <div class="micro-note-content">{{ note.content | markdownify }}</div>
+  </article>
+{% else %}
+  <p>As próximas notas aparecerão aqui.</p>
+{% endfor %}

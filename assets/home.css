@@ -1,0 +1,53 @@
+.landing-page { background: #f5f6f8; color: #283740; }
+.landing-page .site-header, .landing-page .site-footer { background: #fff; }
+.landing-page .site-header > .wrapper, .landing-page .site-footer > .wrapper { max-width: 1120px; }
+.home-shell { width: calc(100% - 48px); max-width: 1120px; margin: 0 auto; padding: 48px 0; }
+.home-page { line-height: 1.65; }
+.home-page a, .microblog-page a { color: #235a78; text-underline-offset: 3px; }
+.home-page a:hover, .microblog-page a:hover { color: #153d54; }
+.home-page a:focus-visible, .microblog-page a:focus-visible, .home-page summary:focus-visible { outline: 3px solid #237d9d; outline-offset: 5px; border-radius: 2px; }
+.skip-link { position: absolute; top: -100px; left: 16px; padding: 12px; background: white; z-index: 10; }
+.skip-link:focus { top: 12px; }
+.home-intro { max-width: 720px; margin-bottom: 36px; }
+.home-eyebrow { text-transform: uppercase; letter-spacing: .12em; font-size: .75rem; font-weight: 700; color: #526975; margin-bottom: 8px; }
+.home-intro h1 { font-size: clamp(2rem, 5vw, 3rem); line-height: 1.12; letter-spacing: -.04em; margin-bottom: 16px; }
+.home-intro > p:not(.home-eyebrow) { font-size: 1.05rem; color: #4f626e; }
+.home-links { display: flex; flex-wrap: wrap; gap: 12px 24px; }
+.home-columns { display: grid; grid-template-columns: minmax(0, 1.65fr) minmax(0, 1fr); gap: 28px; align-items: start; }
+.home-blog, .home-microblog { min-width: 0; padding: 26px; border: 1px solid #dbe3e9; border-radius: 16px; }
+.home-blog { background: #fff; border-top: 5px solid #2b5570; }
+.home-microblog { background: #eaf2ef; border-color: #cbded5; border-top: 5px solid #427460; }
+.home-section-head { margin-bottom: 24px; }
+.home-section-head h2 { font-size: 1.7rem; line-height: 1.2; margin-bottom: 8px; letter-spacing: -.02em; }
+.home-section-head p { color: #526571; margin: 0; font-size: .95rem; }
+.home-post { padding: 20px; margin-bottom: 16px; background: #f8fafc; border: 1px solid #e1e7ec; border-radius: 10px; overflow-wrap: anywhere; }
+.home-post time { font-size: .8rem; color: #586a77; }
+.home-post h3 { font-size: 1.23rem; line-height: 1.4; margin: 8px 0; }
+.home-post p { font-size: .93rem; color: #50616e; margin-bottom: 0; }
+.home-section-link { display: inline-block; margin-top: 8px; font-weight: 600; }
+.micro-note { padding: 18px 0; border-top: 1px solid #c4d7cf; overflow-wrap: anywhere; }
+.micro-note-date { font-size: .85rem; font-weight: 600; margin-bottom: 10px; }
+.micro-note-content { font-size: .94rem; line-height: 1.7; }
+.micro-note-content > :last-child { margin-bottom: 0; }
+.micro-note-content img { max-width: 100%; height: auto; }
+.home-acervo { margin-top: 32px; padding: 28px; border: 1px solid #e2ddd1; border-radius: 16px; background: #f3f0e8; }
+.home-acervo h2 { font-size: 1.4rem; margin-bottom: 18px; }
+.home-acervo-links { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 24px; }
+.home-acervo-links h3 { font-size: 1rem; font-weight: 600; margin-bottom: 6px; }
+.home-acervo-links p { font-size: .9rem; margin-bottom: 0; color: #59646a; }
+.home-acervo details { border-top: 1px solid #d9d3c5; padding-top: 18px; margin-top: 22px; }
+.home-acervo summary { cursor: pointer; font-weight: 600; }
+.home-acervo details ul { margin-top: 16px; margin-bottom: 0; }
+.home-acervo details li + li { margin-top: 10px; }
+.microblog-page { line-height: 1.7; }
+.microblog-page .micro-note { padding: 24px; margin: 20px 0; background: #edf4f0; border: 1px solid #cbded5; border-radius: 12px; scroll-margin-top: 24px; }
+.microblog-page .micro-note:target { outline: 3px solid #427460; outline-offset: 3px; }
+.microblog-page .micro-note-content { font-size: 1rem; }
+@media (max-width: 760px) {
+  .home-shell { width: calc(100% - 32px); padding: 28px 0; }
+  .home-intro { margin-bottom: 28px; }
+  .home-columns { grid-template-columns: minmax(0, 1fr); gap: 24px; }
+  .home-blog, .home-microblog, .home-acervo { padding: 20px; }
+  .home-acervo-links { grid-template-columns: minmax(0, 1fr); gap: 18px; }
+  .home-post { padding: 16px; }
+}

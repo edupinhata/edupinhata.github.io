@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% seo %}
+    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/home.css' | relative_url }}">
+    {% feed_meta %}
+  </head>
+  <body class="landing-page">
+    <a class="skip-link" href="#conteudo">Pular para o conteúdo</a>
+    {% include header.html %}
+    <main id="conteudo" class="home-shell" aria-label="Conteúdo">
+      {{ content }}
+    </main>
+    {% include footer.html %}
+  </body>
+</html>
