@@ -1,6 +1,6 @@
 # Plano de organização do site
 
-Atualizado em: 14/10/2026.
+Atualizado em: 19/10/2026.
 Estado: Etapa 1 implementada por solicitação explícita; demais etapas continuam como propostas.
 
 ## Objetivo e critérios
@@ -72,3 +72,7 @@ Próximo passo: validar build e apresentação móvel da Etapa 1; depois propor 
 ## Implementação da Etapa 1
 
 Entrada baseada no About, com percursos para suas seções profissionais e acadêmicas, três registros selecionados de 2024 (refatoração identificada como rascunho) e arquivo cronológico em posição secundária. Descrição geral em português. Menu, estilos e posts preservados. Verificações estáticas passaram; build bloqueado pela ausência do Bundler 2.4.12. Renderização e apresentação móvel pendentes.
+
+## Revisão da entrada após feedback
+
+O usuário considerou a primeira versão muito semelhante ao About e pediu melhoria. A revisão local substitui os resumos de atuação e formação por uma abertura curta, leituras comentadas e caminhos para o acervo. Perfil e pesquisa ficam acessíveis por links diretos ao About. A seleção conserva datas, idioma e identificação do rascunho. O usuário autorizou commit e push desta revisão em 19/10/2026; isso não implica aprovação das demais etapas ou da arquitetura candidata.

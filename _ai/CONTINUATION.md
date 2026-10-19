@@ -1,30 +1,29 @@
 # Continuidade
 
-Atualizado em: 14/10/2026.
+Atualizado em: 19/10/2026.
 
 ## Estado atual e autorização
 
-O usuário solicitou explicitamente implementar a Etapa 1 do plano. Isso amplia o escopo anterior de documentação para a entrada do site e sua descrição geral. Demais etapas e arquitetura candidata continuam como propostas. O usuário autorizou commit e push da Etapa 1 e da documentação de trabalho em 14/10/2026. O envio à branch `gh-pages` pode acionar a publicação configurada no GitHub Pages; conclusão do deploy ainda não verificada. Sem solicitação de delegação.
+A primeira implementação da Etapa 1 e a documentação foram commitadas e enviadas a `origin/gh-pages` no commit `04eb834`, com autorização explícita. Publicação não verificada.
 
-## Resultado e arquivos alterados
+Em seguida, o usuário considerou a entrada muito parecida com o About e pediu melhoria. A revisão foi implementada localmente e o usuário autorizou seu commit e push em 19/10/2026. Demais etapas continuam como propostas; sem solicitação de delegação.
 
-- `index.markdown`: apresentação breve, engenharia e liderança, formação e pesquisa em definição, três registros selecionados de 2024 e links para perfil, cursos, livros e RSS. Refatoração identificada como rascunho; textos selecionados em inglês. Mantido layout home com arquivo cronológico em posição secundária.
-- `_config.yml`: descrição geral em português baseada no About; menu preservado.
-- `_ai/PLAN.md` e este arquivo: autorização, resultado e verificações registrados.
+## Resultado da revisão
 
-Lidos About, seu CSS e os três posts selecionados. Não foram alterados posts, estilos nem o About.
+- `index.markdown`: abertura curta “Ideias, estudos e prática”; retirados os resumos biográficos de atuação e formação. Leituras comentadas em destaque, seguidas de links para cursos, livros e microblog. Perfil e pesquisa acessíveis por links ao About. Mantidos datas, idioma, identificação do rascunho e arquivo cronológico do layout home.
+- `_ai/PLAN.md` e este arquivo: feedback e resultado registrados.
+- About, configuração, estilos e posts preservados nesta revisão.
 
 ## Validações e limitações
 
-- `git diff --check` passou; YAML da configuração carregado com Ruby.
-- Os três `post_url` correspondem a arquivos existentes; permalinks de About, Cursos e Livros conferidos. Títulos das seções de destino conferidos no About.
-- Build pendente: `bundle exec jekyll --version` falhou pela ausência do Bundler 2.4.12 exigido pelo lockfile no Ruby 2.6.10 disponível. Dependências e lockfile preservados.
-- Não houve verificação visual, móvel, de âncoras renderizadas ou de links externos.
+- `git diff --check` passou. Referências dos três posts e permalinks das quatro páginas conferidos; título da seção de pesquisa confirmado na fonte.
+- Tentativa de `bundle exec jekyll build --destination /tmp/pinhata-home-review` bloqueada pela ausência do Bundler 2.4.12 exigido pelo lockfile, no Ruby 2.6.10 disponível.
+- Build, âncoras renderizadas e apresentação móvel continuam pendentes. Nenhuma verificação visual ou de links externos realizada.
 
 ## Git e preservação
 
-Branch observada: `gh-pages`, acompanhando `origin/gh-pages`; sem consulta remota. Preservados arquivos não rastreados preexistentes: `.obsidian/`, `_posts/2026/`, `output.wav` e `output-2.wav` a `output-4.wav`. `AGENTS.md` e `_ai/` também estavam não rastreados. Reconsultar Git ao retomar.
+Branch `gh-pages`. Revisão preparada para commit e envio autorizado a `origin/gh-pages`; conferir o histórico e o estado remoto ao retomar. Preservados arquivos não rastreados preexistentes: `.obsidian/`, `_posts/2026/`, `output.wav` e `output-2.wav` a `output-4.wav`. Reconsultar Git ao retomar.
 
 ## Próximo passo
 
-Disponibilizar ambiente Jekyll compatível e validar build, links renderizados e apresentação móvel da Etapa 1. A Etapa 2 pode ser proposta posteriormente, sem implementar navegação por inferência.
+Validar geração e apresentação móvel com ambiente Jekyll compatível e conferir a publicação após o envio. As etapas seguintes dependem de direcionamento próprio.
