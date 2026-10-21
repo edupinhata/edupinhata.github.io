@@ -1,6 +1,22 @@
 # Continuidade
 
-Atualizado em: 19/10/2026.
+Atualizado em: 21/10/2026.
+
+## Tipografia aprovada — 21/10/2026
+
+- Após comparar Source Sans 3, Georgia e Courier New, usuário escolheu Source Sans 3 e autorizou explicitamente commit e push.
+- Entrega: `assets/main.scss`, `assets/fonts.css`, WOFF2 normal/itálica e licença Adobe em `assets/fonts/`, além de `mystyle.css` para as páginas históricas. Artigos mantêm 18px/1,65 da comparação; fonte monoespaçada de código preservada. Fontes hospedadas no site com `font-display: swap`.
+- Comparador temporário removido, incluindo override de layout; posts voltam ao layout original do Minima. Demais conteúdos e arquivos locais preservados.
+- Validação final: build Jekyll/Minima em Docker passou, mantendo avisos antigos de post_url. Navegador confirmou Source Sans 3 a 18px/29,7px, ausência do comparador e apresentação móvel sem overflow (354px efetivos). `git diff --check` passou.
+- Commit e push autorizados para esta entrega; conferir o histórico Git e o deploy ao retomar. Prévia atualizada em `http://127.0.0.1:4000`.
+
+## Diagnóstico de publicação — 20/10/2026
+
+- Pedido: verificar ausência do post de Eleições 2026, sem autorização para commit, push ou publicação.
+- HEAD local e último deploy: `2f15c6d`; post já rastreado e enviado. A observação abaixo sobre `_posts/2026/` não rastreado é histórica.
+- O post declara `date: 2026-10-20 10:00 -0300`. O workflow `39373743949` iniciou às 02:13:31 de Brasília e terminou com sucesso às 02:14:10. A data futura explica a exclusão pelo Jekyll; `_config.yml` não habilita `future`.
+- Consultadas API pública do GitHub, documentação do Jekyll e página inicial publicada: Silmarillion aparece, Eleições não. Às 08:52 de Brasília, o horário do post ainda não havia chegado. Não executado novo build local.
+- Alterado somente este registro. Próximo passo: executar novo build após 10h ou, se o usuário autorizar publicação imediata, ajustar o horário do post e enviar a alteração. A passagem do horário sozinha não regenera o site estático.
 
 ## Estado e autorização
 
