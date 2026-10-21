@@ -8,7 +8,7 @@ Atualizado em: 21/10/2026.
 - Entrega: `assets/main.scss`, `assets/fonts.css`, WOFF2 normal/itálica e licença Adobe em `assets/fonts/`, além de `mystyle.css` para as páginas históricas. Artigos mantêm 18px/1,65 da comparação; fonte monoespaçada de código preservada. Fontes hospedadas no site com `font-display: swap`.
 - Comparador temporário removido, incluindo override de layout; posts voltam ao layout original do Minima. Demais conteúdos e arquivos locais preservados.
 - Validação final: build Jekyll/Minima em Docker passou, mantendo avisos antigos de post_url. Navegador confirmou Source Sans 3 a 18px/29,7px, ausência do comparador e apresentação móvel sem overflow (354px efetivos). `git diff --check` passou.
-- Commit e push autorizados para esta entrega; conferir o histórico Git e o deploy ao retomar. Prévia atualizada em `http://127.0.0.1:4000`.
+- Commit principal `5d33517` enviado a `origin/gh-pages`. Ajuste posterior remove espaço final da licença original, sem mudar seu texto. Build e prévia validados; deploy remoto ainda não verificado. Prévia em `http://127.0.0.1:4000`.
 
 ## Diagnóstico de publicação — 20/10/2026
 
