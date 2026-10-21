@@ -1,0 +1,14 @@
+.journals-page { color: #30343b; line-height: 1.65; }
+.journals-page h2 { margin-top: 2rem; }
+.journals-page details { padding: 1rem; border: 1px solid #dce3e8; border-radius: 8px; background: #f7f9fb; }
+.journals-page summary { cursor: pointer; font-weight: 600; color: #234b65; }
+.journals-page details[open] summary { margin-bottom: 1rem; }
+.journals-page summary:focus-visible { outline: 2px solid #234b65; outline-offset: 4px; }
+.journal-list { margin: 0; list-style-position: inside; }
+.journal-card { margin: 1rem 0; padding: 1.2rem; border: 1px solid #dce3e8; border-radius: 8px; overflow-wrap: anywhere; }
+.journal-card::marker { color: #526571; font-weight: 600; }
+.journal-card h3 { display: inline; font-size: 1.2rem; line-height: 1.4; }
+.journal-card p { margin: .65rem 0 0; }
+.journal-metric { color: #234b65; }
+.journal-source { font-size: .9rem; color: #526571; }
+@media (max-width: 480px) { .journal-card { padding: .9rem; } }

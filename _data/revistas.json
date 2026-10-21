@@ -1,0 +1,182 @@
+[
+  {
+    "name": "ACM Computing Surveys",
+    "jif": 30.4,
+    "year": 2025,
+    "affinity": "Revisões e surveys sobre computação, algoritmos, LLMs e otimização.",
+    "source": "https://www.bioxbio.com/journal/ACM-COMPUT-SURV",
+    "source_name": "Bioxbio",
+    "status": "secundária"
+  },
+  {
+    "name": "Nature Machine Intelligence",
+    "jif": 29.8,
+    "year": 2025,
+    "affinity": "IA, modelos fundacionais e aprendizado para resolver problemas.",
+    "source": "https://www.nature.com/natmachintell/journal-impact",
+    "source_name": "Nature",
+    "status": "editorial"
+  },
+  {
+    "name": "Artificial Intelligence Review",
+    "jif": 18.8,
+    "year": 2025,
+    "affinity": "Revisões de IA, LLMs e métodos de otimização inteligente.",
+    "source": "https://link.springer.com/journal/10462",
+    "source_name": "Springer Nature",
+    "status": "editorial"
+  },
+  {
+    "name": "Information Fusion",
+    "jif": 17.4,
+    "year": 2025,
+    "affinity": "Integração de informações e conhecimento; interface com modelos multimodais e LLMs.",
+    "source": "https://www.bioxbio.com/journal/INFORM-FUSION",
+    "source_name": "Bioxbio",
+    "status": "secundária"
+  },
+  {
+    "name": "IEEE Transactions on Evolutionary Computation",
+    "jif": 15.9,
+    "year": 2025,
+    "affinity": "Computação evolutiva, meta-heurísticas e otimização combinatória e multiobjetivo.",
+    "source": "https://www.bioxbio.com/journal/IEEE-T-EVOLUT-COMPUT",
+    "source_name": "Bioxbio",
+    "status": "secundária"
+  },
+  {
+    "name": "Computational Linguistics",
+    "jif": 13.4,
+    "year": 2025,
+    "affinity": "Processamento de linguagem natural, modelos de linguagem e análise linguística.",
+    "source": "https://submissions.cljournal.org/index.php/cljournal/index",
+    "source_name": "Computational Linguistics / ACL",
+    "status": "editorial"
+  },
+  {
+    "name": "Transactions of the Association for Computational Linguistics (TACL)",
+    "jif": 11.7,
+    "year": 2025,
+    "affinity": "Modelos de linguagem e métodos de processamento de linguagem natural.",
+    "source": "https://ooir.org/journals.php?category=Linguistics&field=Literature+%26+Language&metric=jif",
+    "source_name": "OOIR",
+    "status": "pendente"
+  },
+  {
+    "name": "IEEE Transactions on Neural Networks and Learning Systems",
+    "jif": 9.7,
+    "year": 2025,
+    "affinity": "Redes neurais, aprendizado profundo e aprendizado aplicado à otimização.",
+    "source": "https://www.bioxbio.com/journal/IEEE-T-NEUR-NET-LEAR",
+    "source_name": "Bioxbio",
+    "status": "secundária"
+  },
+  {
+    "name": "Expert Systems with Applications",
+    "jif": 9.4,
+    "year": 2025,
+    "affinity": "IA aplicada, sistemas de decisão e avaliação de métodos inteligentes e heurísticas.",
+    "source": "https://www.bioxbio.com/journal/EXPERT-SYST-APPL",
+    "source_name": "Bioxbio",
+    "status": "secundária"
+  },
+  {
+    "name": "Engineering Applications of Artificial Intelligence",
+    "jif": 9.0,
+    "year": 2025,
+    "affinity": "Aplicações de IA em engenharia; interface com LLMs e otimização.",
+    "source": "https://www.bioxbio.com/journal/ENG-APPL-ARTIF-INTEL",
+    "source_name": "Bioxbio",
+    "status": "secundária"
+  },
+  {
+    "name": "Knowledge-Based Systems",
+    "jif": 8.0,
+    "year": 2025,
+    "affinity": "Conhecimento, raciocínio e apoio à decisão; interface com LLMs.",
+    "source": "https://www.bioxbio.com/journal/KNOWL-BASED-SYST",
+    "source_name": "Bioxbio",
+    "status": "secundária"
+  },
+  {
+    "name": "Applied Soft Computing",
+    "jif": 7.8,
+    "year": 2025,
+    "affinity": "Computação evolutiva, meta-heurísticas e métodos híbridos de otimização.",
+    "source": "https://www.iit.comillas.edu/publicacion/info_revista/en/920/Applied_Soft_Computing",
+    "source_name": "IIT Comillas",
+    "status": "secundária"
+  },
+  {
+    "name": "European Journal of Operational Research (EJOR)",
+    "jif": 7.0,
+    "year": 2025,
+    "affinity": "Pesquisa operacional, programação inteira, roteamento e escalonamento.",
+    "source": "https://www.iit.comillas.edu/publicacion/info_revista/en/50/european-journal-of-operational-research",
+    "source_name": "IIT Comillas",
+    "status": "secundária"
+  },
+  {
+    "name": "Mathematical Programming Computation",
+    "jif": 4.9,
+    "year": 2025,
+    "affinity": "Algoritmos, implementação e avaliação computacional em otimização matemática.",
+    "source": "https://link.springer.com/journal/12532",
+    "source_name": "Springer Nature",
+    "status": "editorial"
+  },
+  {
+    "name": "Machine Learning",
+    "jif": 4.9,
+    "year": 2025,
+    "affinity": "Fundamentos e métodos de aprendizado de máquina e sua interface com otimização.",
+    "source": "https://link.springer.com/journal/10994",
+    "source_name": "Springer Nature",
+    "status": "editorial"
+  },
+  {
+    "name": "Computers & Operations Research",
+    "jif": 4.6,
+    "year": 2025,
+    "affinity": "Métodos computacionais, heurísticas e algoritmos para problemas de pesquisa operacional.",
+    "source": "https://www.iit.comillas.edu/publicacion/info_revista/en/282/Computers_%26_Operations_Research",
+    "source_name": "IIT Comillas",
+    "status": "secundária"
+  },
+  {
+    "name": "Annals of Operations Research",
+    "jif": 4.1,
+    "year": 2025,
+    "affinity": "Teoria e aplicações de pesquisa operacional, otimização e ciência de dados.",
+    "source": "https://link.springer.com/journal/10479",
+    "source_name": "Springer Nature",
+    "status": "editorial"
+  },
+  {
+    "name": "Mathematical Programming",
+    "jif": 2.1,
+    "year": 2025,
+    "affinity": "Fundamentos de otimização, programação inteira e métodos exatos.",
+    "source": "https://link.springer.com/journal/10107",
+    "source_name": "Springer Nature",
+    "status": "editorial"
+  },
+  {
+    "name": "Journal of Heuristics",
+    "jif": 2.1,
+    "year": 2025,
+    "affinity": "Desenvolvimento e avaliação de heurísticas e meta-heurísticas.",
+    "source": "https://link.springer.com/journal/10732",
+    "source_name": "Springer Nature",
+    "status": "editorial"
+  },
+  {
+    "name": "Journal of Combinatorial Optimization",
+    "jif": 0.8,
+    "year": 2025,
+    "affinity": "Teoria, algoritmos, complexidade e aplicações de otimização combinatória.",
+    "source": "https://link.springer.com/journal/10878",
+    "source_name": "Springer Nature",
+    "status": "editorial"
+  }
+]

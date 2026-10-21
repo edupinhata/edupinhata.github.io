@@ -5,6 +5,8 @@ Estado: novo layout da entrada com Blog e Microblog autorizado e implementado; o
 
 ## Objetivo e critérios
 
+Decisão de 21/10/2026: autorizada nova aba “Revistas científicas” com 20 periódicos, afinidades e JIF/ano/fontes. Implementação local em `/revistas/`, sem aprovação automática das demais mudanças de navegação; commit e push autorizados após revisão da prévia em 21/10/2026. TACL permanece com métrica provisória identificada.
+
 Decisão final de 21/10/2026: após comparar Source Sans 3, Georgia e Courier New, usuário aprovou Source Sans 3 e autorizou commit e push. Fonte hospedada localmente, artigos a 18px/1,65 e comparador removido. Demais propostas de arquitetura continuam pendentes.
 
 Apresentar com clareza a atuação em engenharia e liderança e a formação e pesquisa em otimização e LLMs. Preservar o valor do arquivo pessoal, com contexto suficiente para IA e manutenção viável.

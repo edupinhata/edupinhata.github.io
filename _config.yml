@@ -43,6 +43,7 @@ header_pages:
   - Livros.md
   - BlogsAndPeople.md
   - Microblog.md
+  - revistas.md
 
 minima:
   skin: dark

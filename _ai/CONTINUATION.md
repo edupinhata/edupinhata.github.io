@@ -2,6 +2,14 @@
 
 Atualizado em: 21/10/2026.
 
+## Revistas científicas — 21/10/2026
+
+- Pedido encaminhado pelo usuário: nova aba com 20 revistas relacionadas a otimização combinatória/LLMs, em ordem de JIF. Após revisar a prévia, usuário autorizou explicitamente commit e push desta página em 21/10/2026.
+- Criados `revistas.md` (`/revistas/`), `_data/revistas.json` e `assets/revistas.css`; adicionada página ao `header_pages` em `_config.yml`. Lista em cartões para celular, ano, afinidades e fontes; metodologia expansível distingue JIF de outras métricas e seleção temática de ranking de qualidade.
+- Conferência web: 9 métricas/anos confirmados em páginas editoriais (Nature, Springer e Computational Linguistics); 10 em fontes secundárias (Bioxbio e IIT Comillas); TACL 11,7/2025 mantido como provisório, explicitamente pendente. Não houve consulta autenticada ao JCR. Bloqueios de ACM/Elsevier/IEEE/MIT Press impedem confirmar todos os valores diretamente. Os 20 valores iniciais foram preservados com esses níveis de evidência.
+- Verificação de dados: 20 nomes únicos, ordem decrescente, ano 2025 e links HTTPS passou. Build Jekyll/Minima em Docker passou (avisos preexistentes de post_url). Navegador confirmou 20 cartões, menu, detalhes expansíveis e ausência de overflow no desktop e a 390px. `git diff --check` passou; fontes externas consultadas conforme os níveis acima, sem garantia de acesso às páginas bloqueadas.
+- Entrega preparada para commit e push autorizados em `gh-pages`; conferir histórico Git para o identificador e verificar deploy ao retomar. Arquivos locais alheios preservados.
+
 ## Tipografia aprovada — 21/10/2026
 
 - Após comparar Source Sans 3, Georgia e Courier New, usuário escolheu Source Sans 3 e autorizou explicitamente commit e push.
