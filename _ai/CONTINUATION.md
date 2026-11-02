@@ -1,6 +1,13 @@
 # Continuidade
 
-Atualizado em: 21/10/2026.
+Atualizado em: 02/11/2026.
+
+## Comentários Giscus — 02/11/2026
+
+- Usuário autorizou ativar comentários no blog/site, incluindo GitHub Discussions, instalação do aplicativo Giscus restrita a `edupinhata/edupinhata.github.io`, configuração e publicação.
+- Discussions habilitado; aplicativo Giscus instalado somente nesse repositório com acesso de escrita a Discussions; categoria `General` confirmada.
+- `_config.yml` recebeu os IDs públicos reais do repositório e da categoria. O componente existente permanece no layout de posts, com tema escuro, idioma português, mapeamento por `pathname` e opt-out por `comments: false`.
+- Build Jekyll 3.9.3/Minima 2.5.1 passou em cópia temporária no Docker; HTML gerado confirmou os dois IDs em páginas de posts. Permanecem apenas avisos preexistentes de `post_url`. Verificar o widget no site público após o envio.
 
 ## Revistas científicas — 21/10/2026
 

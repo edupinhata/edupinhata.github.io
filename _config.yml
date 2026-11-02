@@ -69,10 +69,8 @@ minima:
 #   - vendor/ruby/
 
 # Comentários com Giscus (GitHub Discussions)
-# Para ativar: habilite Discussions no repositório, instale o app Giscus
-# e preencha repo_id e category_id obtidos em https://giscus.app/pt
 giscus:
   repo: "edupinhata/edupinhata.github.io"
+  repo_id: "MDEwOlJlcG9zaXRvcnkyNDgyNDY3ODc="
   category: "General"
-  # repo_id: "R_..."
-  # category_id: "DIC_..."
+  category_id: "DIC_kwDODsvyA84DKOVW"
