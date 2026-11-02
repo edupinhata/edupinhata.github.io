@@ -2,7 +2,8 @@
 layout: post
 title: "Comunicação Não Violenta - Marshall B. Rosenberg"
 date: 2024-10-29 21:00 -0300
-categories: livros desenvolvimento
+categories: books
+permalink: "/livros/desenvolvimento/2024/10/29/comunicacao-nao-violenta.html"
 ---
 
 ![Capa Comunicação não violenta](/images/livros/comunicacao_nao_violenta_capa.jpg)

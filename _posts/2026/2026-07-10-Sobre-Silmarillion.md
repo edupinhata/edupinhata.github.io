@@ -2,7 +2,8 @@
 layout: post
 title: Reflexão sobre silmarillion
 date: 2026-07-10 10:00 -0300
-categories: motivational
+categories: books
+permalink: "/motivational/2026/07/10/Sobre-Silmarillion.html"
 ---
 Por que Gandalf ficou assustado com o um Anel?
 

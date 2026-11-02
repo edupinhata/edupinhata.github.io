@@ -2,7 +2,8 @@
 layout: post
 title:  "Course Conclusion: Practical Leadership Skills!"
 date:   2024-02-22 12:00 -0300
-categories: courses 
+categories: learning
+permalink: "/courses/2024/02/22/pratical-managing-skills-course.html"
 ---
 
 Nice course about leadership. Opened my mind to many aspects of how we interact with people. Not only on work, 

@@ -2,7 +2,8 @@
 layout: post
 title:  "(WIP) Study on Morning Habits"
 date:   2024-10-29 10:00 -0300
-categories: autoimprovement 
+categories: self-development
+permalink: "/autoimprovement/2024/10/29/morning-habits-study.html"
 ---
 
 ## Introduction
