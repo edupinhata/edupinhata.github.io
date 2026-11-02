@@ -2,7 +2,8 @@
 layout: post
 title:  "(WIP) About Refactoring!"
 date:   2024-08-27 12:00 -0300
-categories: programming
+categories: technology
+permalink: "/programming/2024/08/27/about-refactoring.html"
 ---
 
 # Introduction

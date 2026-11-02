@@ -1,5 +1,6 @@
 ---
 categories: self-development
+permalink: "/self-development/2025/12/27/organizing-life-for-2026.html"
 date: 2025-12-27 10:00 -0300
 title: Organizing life for 2026
 layout: post

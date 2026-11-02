@@ -2,7 +2,8 @@
 layout: post
 title:  "Productivity: Replacing Notion"
 date:   2025-01-17 10:00 -0300
-categories: productivity 
+categories: self-development
+permalink: "/productivity/2025/01/17/productivity-tools.html"
 ---
 
 # Introduction

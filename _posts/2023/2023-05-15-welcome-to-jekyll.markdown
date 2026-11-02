@@ -2,7 +2,8 @@
 layout: post
 title:  "Primeiro Post aqui!"
 date:   2023-05-18 12:00 -0300
-categories: pessoal
+categories: life
+permalink: "/pessoal/2023/05/18/welcome-to-jekyll.html"
 ---
 
 Olá, sou Eduardo Pinhata: cristão, cientista da computação, marido da Esther, músico, cozinheiro,
