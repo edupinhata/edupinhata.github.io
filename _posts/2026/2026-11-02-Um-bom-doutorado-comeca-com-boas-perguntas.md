@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Um bom doutorado começa com boas perguntas"
+title: "Um bom doutorado termina com boas perguntas"
 date: 2026-11-02 11:33 -0300
 categories: research
 permalink: "/life/2026/11/02/Um-bom-doutorado-comeca-com-boas-perguntas.html"
@@ -29,4 +29,8 @@ Também exige aprender a distinguir perguntas que são apenas interessantes daqu
 
 Talvez uma das principais transformações esperadas durante o doutorado seja justamente essa: deixar de ser alguém que faz perguntas porque ainda não conhece as respostas e tornar-me alguém capaz de fazer perguntas porque compreende profundamente o conhecimento existente e consegue enxergar além dele.
 
-Nesse sentido, o sucesso do doutorado não estaria apenas nas respostas que eu conseguir produzir, mas também na qualidade das perguntas que eu aprender a formular.
+Isso não significa que as respostas sejam menos importantes. Um doutorado precisa produzir conhecimento original, responder a questões relevantes e oferecer contribuições científicas. Mas essas respostas também podem revelar novos limites, novas possibilidades e perguntas que antes sequer poderiam ser formuladas.
+
+Nesse sentido, espero terminar o doutorado não apenas com respostas e contribuições para minha área, mas também com perguntas melhores do que aquelas com as quais comecei. Perguntas que não revelem simplesmente os limites do meu conhecimento, mas que apontem para os limites do conhecimento científico e para aquilo que ainda merece ser investigado.
+
+Talvez essa seja uma distinção importante: a qualidade das respostas produzidas ajuda a demonstrar minha contribuição para a ciência, enquanto a qualidade das perguntas que aprendi a formular revela minha maturidade como pesquisador.
