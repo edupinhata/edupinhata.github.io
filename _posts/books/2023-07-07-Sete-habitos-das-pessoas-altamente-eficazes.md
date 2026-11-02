@@ -2,7 +2,8 @@
 layout: post
 title: "Resumo: 7 Hábitos das pessoas altamente eficazes - Stephen R. Covey"
 date: 2023-07-07 12:00 -0300
-categories: livros desenvolvimento
+categories: books
+permalink: "/livros/desenvolvimento/2023/07/07/Sete-habitos-das-pessoas-altamente-eficazes.html"
 ---
 
 O ser humano tem algumas habilidades que os distinguem dos animais:

@@ -3,6 +3,7 @@ layout: post
 title: Living a productive life
 date: 2025-04-30 10:00 -0300
 categories: self-development
+permalink: "/self-development/2025/04/30/live-life-in-productive-way.html"
 ---
 
 # Introduction

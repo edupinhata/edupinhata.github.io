@@ -2,7 +2,8 @@
 layout: post
 title:  "(WIP) Understand phone hardware analogies"
 date:   2024-04-02 12:00 -0300
-categories: reflection smartphone
+categories: life
+permalink: "/reflection/smartphone/2024/04/02/understand-phones-analogy.html"
 ---
 
 There are four characteristics that describe my father-in-law:

@@ -2,7 +2,8 @@
 layout: post
 title:  "(WIP) Evolução do Cérebro com o tempo"
 date:   2023-06-14 16:00 -0300
-categories: ciencia cérebro 
+categories: research
+permalink: "/ciencia/cérebro/2023/06/14/sobre-evolucao-do-cerebro-com-o-tempo.html"
 ---
 
 Durante uma noite me veio um pensamento:

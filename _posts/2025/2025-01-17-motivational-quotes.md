@@ -2,7 +2,8 @@
 layout: post
 title:  "Motivational Quotes"
 date:   2025-01-17 10:00 -0300
-categories: motivational
+categories: self-development
+permalink: "/motivational/2025/01/17/motivational-quotes.html"
 ---
 
 ## Introduction
