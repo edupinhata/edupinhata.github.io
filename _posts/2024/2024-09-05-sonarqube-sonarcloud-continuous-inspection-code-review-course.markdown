@@ -2,7 +2,8 @@
 layout: post
 title:  "Course Conclusion: SonarQube SonarCloud - Continuous Inspection and Code Review"
 date:   2024-09-05 10:00 -0300
-categories: courses 
+categories: learning
+permalink: "/courses/2024/09/05/sonarqube-sonarcloud-continuous-inspection-code-review-course.html"
 ---
 
 ## Overview

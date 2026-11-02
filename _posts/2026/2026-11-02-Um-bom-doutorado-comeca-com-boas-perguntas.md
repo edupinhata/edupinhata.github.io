@@ -2,7 +2,8 @@
 layout: post
 title: "Um bom doutorado começa com boas perguntas"
 date: 2026-11-02 11:33 -0300
-categories: life
+categories: research
+permalink: "/life/2026/11/02/Um-bom-doutorado-comeca-com-boas-perguntas.html"
 ---
 
 ![Ilustração em aquarela: da curiosidade na superfície à descoberta nas profundezas do conhecimento]({{ '/assets/images/doutorado-boas-perguntas-fronteira-do-conhecimento.png' | relative_url }})

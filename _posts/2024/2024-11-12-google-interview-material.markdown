@@ -2,7 +2,8 @@
 layout: post
 title:  "Google Interview Material"
 date:   2024-11-12 10:00 -0300
-categories: interview 
+categories: learning
+permalink: "/interview/2024/11/12/google-interview-material.html"
 ---
 
 ## Introduction

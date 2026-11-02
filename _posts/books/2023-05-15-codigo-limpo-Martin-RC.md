@@ -2,7 +2,8 @@
 layout: post
 title: "Resumo: Código Limpo - R. C. Martin"
 date: 2023-05-18 17:00 -0300
-categories: livros computacao
+categories: books
+permalink: "/livros/computacao/2023/05/18/codigo-limpo-Martin-RC.html"
 ---
 
 ## Capítulo 12 - Emergência
