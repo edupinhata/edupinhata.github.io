@@ -1,0 +1,27 @@
+{% comment %}
+  Giscus needs the repository's GitHub GraphQL IDs and an enabled Discussions category.
+  To activate, set giscus.repo_id and giscus.category_id in _config.yml,
+  enable Discussions and install https://github.com/apps/giscus for this repository.
+  Set comments: false in an individual post's front matter to disable comments.
+{% endcomment %}
+{% if page.comments != false and site.giscus.repo_id and site.giscus.category_id %}
+<section class="post-comments" aria-labelledby="post-comments-heading" style="margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid #555;">
+  <h2 id="post-comments-heading">Comentários</h2>
+  <p>Participe da conversa usando sua conta GitHub.</p>
+  <script src="https://giscus.app/client.js"
+          data-repo="{{ site.giscus.repo | escape }}"
+          data-repo-id="{{ site.giscus.repo_id | escape }}"
+          data-category="{{ site.giscus.category | escape }}"
+          data-category-id="{{ site.giscus.category_id | escape }}"
+          data-mapping="pathname"
+          data-strict="1"
+          data-reactions-enabled="1"
+          data-emit-metadata="0"
+          data-input-position="bottom"
+          data-theme="dark"
+          data-lang="pt"
+          data-loading="lazy"
+          crossorigin="anonymous"
+          async></script>
+</section>
+{% endif %}
