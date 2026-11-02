@@ -5,6 +5,9 @@ date: 2026-11-02 11:33 -0300
 categories: life
 ---
 
+![Ilustração em aquarela: da curiosidade na superfície à descoberta nas profundezas do conhecimento]({{ '/assets/images/a_detailed_watercolor_studio_ghibli_style_illustra-1.png' | relative_url }})
+
+
 Em uma das disciplinas de Metodologia da Pesquisa em Computação, o professor Jesus fez uma afirmação que me chamou a atenção: **um bom doutorado não é aquele em que o pesquisador encontra muitas respostas, mas aquele em que consegue formular muitas boas perguntas.**
 
 Essa afirmação revela algo importante sobre a natureza da pesquisa científica. Fazer boas perguntas não significa simplesmente ter dúvidas ou demonstrar curiosidade. Significa ter desenvolvido conhecimento suficiente sobre determinado campo para reconhecer seus limites, identificar aquilo que ainda não foi compreendido e perceber possibilidades de investigação.
